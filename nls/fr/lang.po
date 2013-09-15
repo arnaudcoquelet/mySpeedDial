@@ -1,0 +1,51 @@
+﻿# translation of /lang.po 
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-12 15:07.235TZ+0000\n"
+"PO-Revision-Date: 2013-04-12 15:07.763TZ+0000
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X_poedit-SourceCharset: utf-8\n"
+
+# File : controlBase.js
+msgid "mySpeedDial"
+msgstr "Mes Numéros"
+
+# File : controlBase.js
+msgid "Home"
+msgstr "Accueil"
+
+# File : controlBase.js
+msgid "Refresh"
+msgstr "Rafraichir"
+
+# File : controlBase.js
+msgid "Call"
+msgstr "Appel"
+
+# File : controlBase.js
+msgid "Close"
+msgstr "Fermer"
+
+# File : controlBase.js
+msgid "Error"
+msgstr "Erreur"
+
+# File : controlBase.js
+msgid "HTTP Server Unreachable"
+msgstr "Serveur HTTP indisponible"
+
+# File : getMySpeedDial8082.js
+msgid "Content"
+msgstr "Contenu"
+
+# File : getSpeedDialListBase.js
+msgid "SpeedDials"
+msgstr "Mes Numéros"

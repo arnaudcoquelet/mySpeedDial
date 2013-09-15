@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+.mySpeedDial-application-64{
+background-image:url('../images/mySpeedDial-application-64.png');
+background-position: -0px -0px;
+}
+.mySpeedDial-application-64:active{
+background-image:url('../images/mySpeedDial-application-64.png');
+background-position: -64px -0px;
+}
+.mySpeedDial-application-64.disabled{
+background-image:url('../images/mySpeedDial-application-64.png');
+background-position: -128px -0px;
+}
+
+
+.mySpeedDial-refresh-64{
+background-image:url('../images/myAVST-refresh-normal-64.png');
+}
+.mySpeedDial-refresh-64:active{
+background-image:url('../images/myAVST-refresh-pressed-64.png');
+}
+.mySpeedDial-refresh-64.disabled{
+background-image:url('../images/myAVST-refresh-disable-64.png');
+}
+
+/*Call Icon*/
+.communication-call-64{
+background-image:url('../images/communication_call_normal_64.png');
+}
+.communication-call-64:active{
+background-image:url('../images/communication_call_pressed_64.png');
+}
+.communication-call-64.disabled{
+background-image:url('../images/communication_call_disable_64.png');
+}
+
+.communication-call-48{
+background-image:url('../images/communication_call_normal_48.png');
+}
+.communication-call-48:active{
+background-image:url('../images/communication_call_pressed_48.png');
+}
+.communication-call-48.disabled{
+background-image:url('../images/communication_call_disable_48.png');
+}
+
+.communication-call-32{
+background-image:url('../images/communication_call_normal_32.png');
+}
+.communication-call-32:active{
+background-image:url('../images/communication_call_pressed_32.png');
+}
+.communication-call-32.disabled{
+background-image:url('../images/communication_call_disable_32.png');
+}

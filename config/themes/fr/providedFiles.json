@@ -1,0 +1,12 @@
+{
+//Name=fr
+//Author=Arnaud Coquelet
+//CreationDate=2013/05/17
+    name : "fr",
+    type : "Partial",
+	associatedFullSkin : "Default",
+	
+    "webapp" : {
+		"mySpeedDial" : ["main.css","main8082.css","icons.css"]
+   }
+}

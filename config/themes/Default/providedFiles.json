@@ -1,0 +1,12 @@
+{
+//Name=Default
+//Author=arnaud coquelet
+//CreationDate=2013/03/19
+    name : "Default",
+    type : "Default",
+	
+	
+    "webapp" : {
+		"mySpeedDial" : ["main.css","main8082.css","icons.css"]
+   }
+}
